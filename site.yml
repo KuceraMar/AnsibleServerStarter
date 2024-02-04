@@ -1,0 +1,9 @@
+---
+- name: Setup all servers
+  hosts: all
+  become: yes
+  roles:
+    - common
+
+- include: webservers.yml
+- include: dbservers.yml
