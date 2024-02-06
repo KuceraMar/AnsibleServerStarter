@@ -41,7 +41,7 @@ ssh_args = -o ServerAliveInterval=10
 Alternatively, you can use the following command for the same purpose:
 1. ssh-copy-id -i ~/.ssh/ansible_rsa.pub user@server2
 
-## Testin
+## Test
 ssh -i /home/user/.ssh/ansible_rsa root@10.0.0.10
 
 
