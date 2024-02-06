@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Simple Setup for Servers with Ansible](#_simple_setup)
 2. [Features](#_features)
-3. [Getting Started](# Getting Started)
+3. [Getting Started](#_getting_started)
 4. [How to use](#_how_to_use)
 5. [Contribute](#_contribute)
 6. [License](#_license)
