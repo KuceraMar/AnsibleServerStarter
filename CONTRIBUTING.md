@@ -2,6 +2,13 @@
 
 We welcome contributions to our project from everyone! Whether you're a developer or not, your help is valuable.
 
+## Table of Contents
+1. [Reporting Issues](#reporting-issues)
+2. [Making Changes](#making-changes)
+3. [Code Style](#code-style)
+4. [Testing](#testing)
+5. [Licensing](#licensign)
+
 ## Reporting Issues
 
 If you find a bug or have a suggestion, please [open an issue](https://github.com/KuceraMar/AnsibleServerStarter/issues) on GitHub. Be sure to include:
