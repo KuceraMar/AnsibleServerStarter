@@ -7,7 +7,7 @@ We welcome contributions to our project from everyone! Whether you're a develope
 2. [Making Changes](#making-changes)
 3. [Code Style](#code-style)
 4. [Testing](#testing)
-5. [Licensing](#licensign)
+5. [Licensing](#licensing)
 
 ## Reporting Issues
 
