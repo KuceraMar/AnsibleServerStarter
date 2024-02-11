@@ -31,6 +31,7 @@ Welcome to AnsibleServerStarter! This project makes setting up servers fast and 
 
 - Read the instructions in each playbook and role for details.
 - Customize playbooks and roles as needed for your setup.
+- You can use only prepared playbook and manage servers on your side.
 
 ## Contribute<!--#contribute-->
 
